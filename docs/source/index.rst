@@ -139,9 +139,8 @@ Indices and tables
    DataTypes aka Models <qdrant_client.http.models.models>
    Conversions <qdrant_client.conversions>
    HTTP API <qdrant_client.http>
-   Exceptions <qdrant_client.https.exceptions>
+   Exceptions <qdrant_client.http.exceptions>
    gRPC API <qdrant_client.grpc>
-   Filters <qdrant_client.http.models.models.filters>
    Uploader <qdrant_client.uploader.uploader>
 
 .. toctree::
