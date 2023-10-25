@@ -34,6 +34,7 @@ fastembed = [
 pytest = "^7.1"
 grpcio-tools = "^1.46.0"
 sphinx = "^4.4.0"
+readthedocs-sphinx-search = "ˆ0.3.1"
 qdrant-sphinx-theme = { git = "https://github.com/qdrant/qdrant_sphinx_theme.git", branch = "master" }
 coverage = "^6.3.3"
 pytest-asyncio = "^0.21.0"
