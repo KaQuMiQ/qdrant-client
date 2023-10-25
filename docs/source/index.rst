@@ -140,11 +140,10 @@ Indices and tables
    Conversions <qdrant_client.conversions>
    HTTP API <qdrant_client.http>
    Exceptions <qdrant_client.http.exceptions>
-   gRPC API <qdrant_client.grpc>
    Uploader <qdrant_client.uploader.uploader>
 
 .. toctree::
    :maxdepth: 1
    :caption: Complete Docs
 
-   Complete Client API Docs <qdrant_client.qdrant_client>
+   Complete Client API Docs <qdrant_client>
